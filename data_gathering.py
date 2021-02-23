@@ -2,7 +2,7 @@ import cv2
 import time
 from picamera.array import PiRGBArray
 from picamera import PiCamera
-import numpy as np 
+import numpy as np
 import os
 import sys
 
